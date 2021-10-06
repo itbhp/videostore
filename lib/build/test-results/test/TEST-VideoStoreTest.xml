@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="VideoStoreTest" tests="4" skipped="0" failures="0" errors="0" timestamp="2021-10-06T18:20:49" hostname="gallifrey" time="0.025">
+  <properties/>
+  <testcase name="testSingleChildrenStatement()" classname="VideoStoreTest" time="0.02"/>
+  <testcase name="testDualNewReleaseStatement()" classname="VideoStoreTest" time="0.001"/>
+  <testcase name="testSingleNewReleaseStatement()" classname="VideoStoreTest" time="0.0"/>
+  <testcase name="testMultipleRegularStatement()" classname="VideoStoreTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
